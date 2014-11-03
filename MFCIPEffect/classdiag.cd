@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="CDUIBase" Collapsed="true">
+    <Position X="2.25" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAgAAAAAACABAABAAAAAAAAAABAAQAAA=</HashCode>
+      <FileName>UIBase.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CBkImage" Collapsed="true">
+    <Position X="5.5" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAEAAAAgAgqAICgAEAwAAAICAAQAAAAwACAAgACg=</HashCode>
+      <FileName>bkimage.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CDUIPage" Collapsed="true">
+    <Position X="1.25" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAIAAAAAACEgAAAAAEEABYghAAAAAAQAIAAgAQAIA=</HashCode>
+      <FileName>UIPages.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DrawEngines" Collapsed="true">
+    <Position X="7.25" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAABAAAAAAAAAAAEAAAAAAAAAAAAAAAEABAAAFQ=</HashCode>
+      <FileName>PngManager.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HGUIPngDEngine" Collapsed="true">
+    <Position X="7.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAkAEAAAAAAAAEAAAAAABAAgAIACAAIAAEAAAAA=</HashCode>
+      <FileName>PngManager.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HGUIPngPool" Collapsed="true">
+    <Position X="5.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAABAAAAAAAAABAEAAAAAAAAACQAAAQQABEBAAQ=</HashCode>
+      <FileName>PngManager.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CDUIButton" Collapsed="true">
+    <Position X="3.25" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAAIAAAAEEAQwAAgAAAIiBAABAAKAAAAIIAAMIwAJE=</HashCode>
+      <FileName>UIButton.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="宋体" Size="9" />
+</ClassDiagram>
